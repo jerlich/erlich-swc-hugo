@@ -1,0 +1,65 @@
+baseURL: "https://www.erlichlab.org/"
+languageCode: "en-us"
+title: "Erlich Lab at SWC"
+theme: scientific-python-hugo-theme
+relativeURLs: true
+disableKinds: ["term", "taxonomy"]
+
+markup:
+  highlight:
+    noClasses: false
+
+params:
+  description: "Erlich Lab Website"
+  images:
+    - /images/erlichlab.png
+  navbarlogo:
+    image: erlichlab.png
+    text: Links
+    link: /
+  hero:
+    title: Erlich Neurobiology Lab 
+    image: erlichlab.png
+  navbar:
+    - title: People
+      url: /people/
+    - title: Research
+      url: /features/
+    - title: Papers
+      url: https://scholar.google.com/citations?user=kI5EI3AAAAAJ&hl=en
+      is_external: true
+
+    - title: Shortcodes
+      url: /shortcodes/
+  keyfeatures:
+    features:
+      - title: Open Science
+        text: We are committed to open science. <br>
+         Sharing code and data. Preregistration. Version control. Preprints. 
+      - title: Neuroeconomics
+        text: What are the biological and neural substrates of individual risk and time preferences?
+      - title: Community Maintained
+        text: The theme is maintained by the [Theme Team](/about/).
+  footer:
+    logo: erlichlab.png
+    socialmediatitle: "jeeze"
+    socialmedia:
+      - link: https://twitter.com/erlichlab
+        icon: twitter
+      - link: https://github.com/erlichlab/
+        icon: github
+    quicklinks:
+      column1:
+        title: ""
+        links:
+          - text: Site at Sainsbury Wellcome Centre
+            link: https://www.sainsburywellcome.org/web/groups/erlich-lab
+            is_external: true
+          - text: Theme GitHub
+            link: https://github.com/scientific-python/scientific-python-hugo-theme
+      column2:
+        links:
+          - text: Scientific Python Forum
+            link: https://discuss.scientific-python.org
+      column3:
+        links:
