@@ -24,7 +24,7 @@ params:
     - title: People
       url: /people/
     - title: Research
-      url: /features/
+      url: /research/
     - title: Papers
       url: https://scholar.google.com/citations?user=kI5EI3AAAAAJ&hl=en
       is_external: true
