@@ -1,3 +1,7 @@
+---
+title: People
+---
+
 # Lab Members
 
 ### [Jeffrey C. Erlich, Principal Investigator](https://www.sainsburywellcome.org/web/people/jeffrey-erlich)

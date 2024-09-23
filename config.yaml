@@ -28,9 +28,6 @@ params:
     - title: Papers
       url: https://scholar.google.com/citations?user=kI5EI3AAAAAJ&hl=en
       is_external: true
-
-    - title: Shortcodes
-      url: /shortcodes/
   keyfeatures:
     features:
       - title: Open Science
@@ -48,6 +45,8 @@ params:
         icon: twitter
       - link: https://github.com/erlichlab/
         icon: github
+      - link: https://qoto.org/@jerlich
+        icon: mastodon
     quicklinks:
       column1:
         title: ""
