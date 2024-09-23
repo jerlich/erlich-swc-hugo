@@ -45,8 +45,6 @@ params:
         icon: twitter
       - link: https://github.com/erlichlab/
         icon: github
-      - link: https://qoto.org/@jerlich
-        icon: mastodon
     quicklinks:
       column1:
         title: ""
